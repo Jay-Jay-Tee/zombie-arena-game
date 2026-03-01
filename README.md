@@ -14,7 +14,7 @@ Desktop:
 - Space or Hold Click to shoot
 
 Mobile:
-- Left joystick to move
+- Left Joystick to move
 - Auto Shoot is enabled for mobile
 
 ## Live Demo
