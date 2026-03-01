@@ -98,6 +98,8 @@ No external game engine. No frameworks.
 
 ## 👨‍💻 Author
 
-Joshua
+JOSHUA
+
+---
 
 Built as a browser performance experiment and arcade survival project.
