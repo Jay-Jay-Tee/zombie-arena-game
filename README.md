@@ -98,7 +98,7 @@ No external game engine. No frameworks.
 
 ## 👨‍💻 Author
 
-JOSHUA
+Joshua Jacob Thomas (c. 2025)
 
 ---
 
